@@ -1,0 +1,2 @@
+# wiland-challenge
+I did not get very far within the 1 hour time frame. I chose to use javascript, html, and was planning on CSS.  As you can see in the attached files, I was working on the logic to update the numbers for calculation. I would have then moved onto the functions for assigning the operator, performing the calculator, and then the erase function. I would have had to modify my display function as well to not display the operators.  Hopefully you could see where I would have ended up with a bit more time.  
